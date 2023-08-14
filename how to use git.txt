@@ -1,0 +1,28 @@
+# đầu tiên là push file lên new repo github
+
+Step 1: git init 
+
+Step 2: git add ./
+
+Step 3: git commit -m "message"
+
+Step 4: git branch -M <name branch>
+
+Step 5: git remote add origin "url của repo"
+
+Step 6: git push -u origin main
+
+
+
+
+# tiếp theo là push file lên existing repo github
+
+Step 1: git init (lại thêm lần nữa)
+
+Step 2: git add ./ (để thêm file vừa tạo hoặc code mới sửa)
+
+Step 3: git commit -m "message" 
+
+Step 4: git branch -M <name branch của repo>
+
+Step 5: git push -u origin main
